@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="image_1">Mona Liza</string>
+    <string name="image_1_artist">Leonardo da Vinci (1503–1505)</string>
+    <string name="image_2">The Birth of Venus</string>
+    <string name="image_2_artist">Sandro Botticelli (1486)</string>
+    <string name="image_3">The Creation of Adam</string>
+    <string name="image_3_artist">Michelangelo Buonarroti (1511)</string>
+    <string name="image_4">The Last Supper</string>
+    <string name="image_4_artist">Leonardo da Vinci (1495—1498)</string>
+    <string name="image_5">The Ancient of Days</string>
+    <string name="image_5_artist">William Blake (1794)</string>
+</resources>
